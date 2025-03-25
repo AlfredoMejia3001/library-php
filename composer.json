@@ -1,0 +1,24 @@
+{
+    "name": "tu-usuario/cfdi-retenciones",
+    "description": "Generador de XML para CFDI de Retenciones compatible con el SAT",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tu Nombre",
+            "email": "tu@email.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-dom": "*",
+        "ext-openssl": "*",
+        "ext-xsl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "TuNamespace\\CFDIRetenciones\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
