@@ -1,12 +1,12 @@
 {
-    "name": "mejia_alfredo/library-php",
+    "name": "alfredomejia3001/cfdi-retenciones",
     "description": "Generador de XML para CFDI de Retenciones compatible con el SAT",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "AlfredoMejia3001",
-            "email": "mejia_alfredo@outlook.com"
+            "name": "Alfredo Mejia",
+            "email": "tu@email.com"
         }
     ],
     "require": {
@@ -17,8 +17,8 @@
     },
     "autoload": {
         "psr-4": {
-            "TuNamespace\\CFDIRetenciones\\": "src/"
+            "AlfredoMejia\\Retenciones\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
