@@ -1,4 +1,8 @@
 <?php
+namespace AlfredoMejia3001\CFDIRetenciones;
+
+
+
 class CFDRetenciones {
     private $cRetenciones;
     private $ccfdiRelacionados;

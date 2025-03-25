@@ -17,8 +17,8 @@
     },
     "autoload": {
         "psr-4": {
-            "AlfredoMejia\\Retenciones\\": "src/"
-        }
+            "AlfredoMejia3001\\CFDIRetenciones\\": "src/"
+                }
     },
     "minimum-stability": "dev"
 }
